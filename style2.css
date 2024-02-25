@@ -1,0 +1,21 @@
+*{
+    margin:20px;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+   background-image: url("k2.jpg"); 
+   color: yellow;
+   font-size: 20px;
+}
+/* #parag{
+    color: white; */
+    
+
+h1{
+    color:rgb(199, 4, 199);
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}

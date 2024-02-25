@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    
+}
+
+.okay{
+    text-align: center;
+    color: Blue;
+    padding:20px;
+    background-color: aqua;
+    text-decoration: none;
+    /* display:inline-block; */
+
+}
+
+#image{
+    width:1000px;
+    height:500px
+}
+
+#hello{
+background-color: blueviolet;
+padding:20px;
+color:white;
+font-size: medium;
+font-family: Arial, Helvetica, sans-serif;
+
+}
+.oki{
+    /* margin:auto; */
+    padding:20px;
+    text-align: center;
+    /* display: flex;
+    flex-direction: column; */
+   height:50px;
+   background-color: pink;
+   color:black;
+   
+
+}
